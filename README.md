@@ -1,2 +1,2 @@
 # kc-hostname-resolver
-Hostanme Resolver for KC/RHSSO
+Hostname Resolver for KC/RHSSO
